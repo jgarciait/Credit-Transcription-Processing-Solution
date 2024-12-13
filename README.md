@@ -72,7 +72,8 @@ To transcribe credit transcripts from universities, schools, and educational ins
 
 ### 4. Credit Transcript Processing Software Solution
 
-![Student Credit Transcription Processing](https://github.com/user-attachments/assets/03521128-d4ec-4e17-8fba-5c29c1c26c46)
+![Student Credit Transcription Processing](https://github.com/user-attachments/assets/d8764ccf-4e1f-4f60-89a8-814dd7f79670)
+)
 
    - Features:
      - Processes every student credit transcript, analyzing data with custom-developed software to extract student information, courses, and grades.
